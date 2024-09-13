@@ -1,0 +1,12 @@
+﻿  AboutFrame.cpp
+  App.cpp
+  Backup.cpp
+  CreateBackupFrame.cpp
+C:\Users\Arham Khan\Documents\Projects\SalvaVault\SalvaVault\CreateBackupFrame.cpp(29,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Arham Khan\Documents\Projects\SalvaVault\SalvaVault\CreateBackupFrame.cpp(34,62): warning C4305: 'argument': truncation from 'double' to 'float'
+  MainFrame.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1045 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SalvaVault.vcxproj -> C:\Users\Arham Khan\Documents\Projects\SalvaVault\x64\Release\SalvaVault.exe
